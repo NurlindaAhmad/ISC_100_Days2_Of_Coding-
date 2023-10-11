@@ -1,0 +1,19 @@
+package Day3;
+
+public class Hari3 {
+    public static void main(String[] args) {
+        String nama ="linda";
+        Integer jumlahPeserta =40;
+        Double tinggiBadan = 155.5;
+        Character kategori = 'B';
+        Boolean izinAkses = false;
+        Float suhu = 25.5f;
+        Long jumlahPenduduk =1000000L;
+        Byte nilai = 80;
+        
+        
+        
+    }
+    
+    
+}
